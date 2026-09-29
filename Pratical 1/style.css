@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: arial;
+    background-color: #eef5ff;
+}
+
+header{
+ text-align: center;
+ background-color: #1565c0;
+ color: white;
+ padding: 15px;
+}
+
+nav{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+.content{
+    width: 70%;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+.button,button{
+padding: 8px 15px;
+background-color: #1565c0;
+color: whitre;
+border: none;
+text-decoration: none;
+}
+
+input,select{
+    display:block;
+    width: 100%;
+    padding:8px;
+    margin: 8px 0;
+
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #0d47a1;
+    color: white;
+}
+
+.message{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #dff0d8;
+    color: green;
+    text-align: center;
+}
+    

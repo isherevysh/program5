@@ -1,0 +1,8 @@
+body{ margin: 0px;font-family: arial;background-color: #fff3e0;}
+header{text-align: center;background-color: #ef6c00;color: white;padding: 15px;}
+nav{ text-align: center;background-color: #e65100; padding: 10px;}
+nav a{ color: white; text-decoration: none;margin: 10px;}
+.content{ width: 70%;margin: 25px auto;padding: 20px; background-color: white;}
+.button,button{ display: inline-block;padding: 8px 15px;margin-top: 15px;background-color: #ef6c00;color:white;border: none;text-decoration: none;cursor: pointer;}
+#result{margin-top: 20px;padding: 10px; background-color: #e8f5e9;color: green;font-weight:bold;}
+footer{ text-align: center;pad: 10px;background-color: #e65100;color:white}
